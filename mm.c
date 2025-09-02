@@ -37,16 +37,8 @@
  *
  *
  *************************************************************************
- *
- * ADVICE FOR STUDENTS.
- * - Step 0: Please read the writeup!
- * - Step 1: Write your heap checker.
- * - Step 2: Write contracts / debugging assert statements.
- * - Good luck, and have fun!
- *
  *************************************************************************
  *
- * @author Tianyi Zhang <tzhang4@andrew.cmu.edu>
  */
 
 #include <assert.h>
