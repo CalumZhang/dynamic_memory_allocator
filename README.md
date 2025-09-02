@@ -257,11 +257,6 @@ Key parameters in `config.h`:
 └── helper.mk              # Additional make rules
 ```
 
-## Author
-
-**Tianyi Zhang** (tzhang4@andrew.cmu.edu)  
-Carnegie Mellon University
-
 ## License
 
 Copyright (c) 2002, 2016, R. Bryant and D. O'Hallaron, All rights reserved.  
